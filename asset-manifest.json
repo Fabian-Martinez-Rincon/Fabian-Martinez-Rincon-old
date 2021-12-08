@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/PortfolioReact/static/js/main.0892142f.chunk.js",
-    "main.js.map": "/PortfolioReact/static/js/main.0892142f.chunk.js.map",
+    "main.js": "/PortfolioReact/static/js/main.37318bb1.chunk.js",
+    "main.js.map": "/PortfolioReact/static/js/main.37318bb1.chunk.js.map",
     "runtime-main.js": "/PortfolioReact/static/js/runtime-main.0f0a46b8.js",
     "runtime-main.js.map": "/PortfolioReact/static/js/runtime-main.0f0a46b8.js.map",
     "static/js/2.04963e36.chunk.js": "/PortfolioReact/static/js/2.04963e36.chunk.js",
     "static/js/2.04963e36.chunk.js.map": "/PortfolioReact/static/js/2.04963e36.chunk.js.map",
     "index.html": "/PortfolioReact/index.html",
-    "precache-manifest.612dc3a7765ddb3c930264de3cb83089.js": "/PortfolioReact/precache-manifest.612dc3a7765ddb3c930264de3cb83089.js",
+    "precache-manifest.a0ebff537557070700fbfdd443f985d0.js": "/PortfolioReact/precache-manifest.a0ebff537557070700fbfdd443f985d0.js",
     "service-worker.js": "/PortfolioReact/service-worker.js",
     "static/js/2.04963e36.chunk.js.LICENSE.txt": "/PortfolioReact/static/js/2.04963e36.chunk.js.LICENSE.txt",
     "static/media/design.svg": "/PortfolioReact/static/media/design.bca243ce.svg",
@@ -19,6 +19,6 @@
   "entrypoints": [
     "static/js/runtime-main.0f0a46b8.js",
     "static/js/2.04963e36.chunk.js",
-    "static/js/main.0892142f.chunk.js"
+    "static/js/main.37318bb1.chunk.js"
   ]
 }
