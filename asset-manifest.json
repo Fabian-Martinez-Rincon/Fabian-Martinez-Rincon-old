@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.js": "/PortfolioReact/static/js/main.f4d25cd5.chunk.js",
-    "main.js.map": "/PortfolioReact/static/js/main.f4d25cd5.chunk.js.map",
+    "main.js": "/PortfolioReact/static/js/main.66ac98a0.chunk.js",
+    "main.js.map": "/PortfolioReact/static/js/main.66ac98a0.chunk.js.map",
     "runtime-main.js": "/PortfolioReact/static/js/runtime-main.0f0a46b8.js",
     "runtime-main.js.map": "/PortfolioReact/static/js/runtime-main.0f0a46b8.js.map",
-    "static/js/2.8aeef698.chunk.js": "/PortfolioReact/static/js/2.8aeef698.chunk.js",
-    "static/js/2.8aeef698.chunk.js.map": "/PortfolioReact/static/js/2.8aeef698.chunk.js.map",
+    "static/js/2.63d1e6c2.chunk.js": "/PortfolioReact/static/js/2.63d1e6c2.chunk.js",
+    "static/js/2.63d1e6c2.chunk.js.map": "/PortfolioReact/static/js/2.63d1e6c2.chunk.js.map",
     "index.html": "/PortfolioReact/index.html",
-    "precache-manifest.555df501c82805c2eb847670c9f990ff.js": "/PortfolioReact/precache-manifest.555df501c82805c2eb847670c9f990ff.js",
+    "precache-manifest.02f38fa4899bea75034c61d230285aca.js": "/PortfolioReact/precache-manifest.02f38fa4899bea75034c61d230285aca.js",
     "service-worker.js": "/PortfolioReact/service-worker.js",
-    "static/js/2.8aeef698.chunk.js.LICENSE.txt": "/PortfolioReact/static/js/2.8aeef698.chunk.js.LICENSE.txt",
-    "static/media/1.png": "/PortfolioReact/static/media/1.22d4000a.png",
+    "static/js/2.63d1e6c2.chunk.js.LICENSE.txt": "/PortfolioReact/static/js/2.63d1e6c2.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/PortfolioReact/static/media/1.34ea2f3b.png",
+    "static/media/2.png": "/PortfolioReact/static/media/2.d4e53d24.png",
     "static/media/3.jpg": "/PortfolioReact/static/media/3.54a455c8.jpg",
+    "static/media/3.png": "/PortfolioReact/static/media/3.594a1cd6.png",
+    "static/media/4.png": "/PortfolioReact/static/media/4.0246c446.png",
+    "static/media/5.png": "/PortfolioReact/static/media/5.3d1393b0.png",
+    "static/media/6.png": "/PortfolioReact/static/media/6.25188ca7.png",
+    "static/media/7.png": "/PortfolioReact/static/media/7.84c990a4.png",
+    "static/media/8.png": "/PortfolioReact/static/media/8.0d83b3e7.png",
     "static/media/blog1.svg": "/PortfolioReact/static/media/blog1.bf6816de.svg",
     "static/media/design.svg": "/PortfolioReact/static/media/design.bca243ce.svg",
     "static/media/game-dev.svg": "/PortfolioReact/static/media/game-dev.72bdc773.svg",
@@ -20,7 +27,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0f0a46b8.js",
-    "static/js/2.8aeef698.chunk.js",
-    "static/js/main.f4d25cd5.chunk.js"
+    "static/js/2.63d1e6c2.chunk.js",
+    "static/js/main.66ac98a0.chunk.js"
   ]
 }
