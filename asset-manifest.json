@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/PortfolioReact/static/js/main.aac096a4.chunk.js",
-    "main.js.map": "/PortfolioReact/static/js/main.aac096a4.chunk.js.map",
+    "main.js": "/PortfolioReact/static/js/main.0e845ed4.chunk.js",
+    "main.js.map": "/PortfolioReact/static/js/main.0e845ed4.chunk.js.map",
     "runtime-main.js": "/PortfolioReact/static/js/runtime-main.0f0a46b8.js",
     "runtime-main.js.map": "/PortfolioReact/static/js/runtime-main.0f0a46b8.js.map",
     "static/js/2.7b701202.chunk.js": "/PortfolioReact/static/js/2.7b701202.chunk.js",
     "static/js/2.7b701202.chunk.js.map": "/PortfolioReact/static/js/2.7b701202.chunk.js.map",
     "index.html": "/PortfolioReact/index.html",
-    "precache-manifest.a960ca9064beb7ef2311d0c497884df0.js": "/PortfolioReact/precache-manifest.a960ca9064beb7ef2311d0c497884df0.js",
+    "precache-manifest.0c1d66ea5826e25d4005d91892f7fec4.js": "/PortfolioReact/precache-manifest.0c1d66ea5826e25d4005d91892f7fec4.js",
     "service-worker.js": "/PortfolioReact/service-worker.js",
     "static/js/2.7b701202.chunk.js.LICENSE.txt": "/PortfolioReact/static/js/2.7b701202.chunk.js.LICENSE.txt",
     "static/media/1.png": "/PortfolioReact/static/media/1.34ea2f3b.png",
@@ -22,12 +22,12 @@
     "static/media/blog1.svg": "/PortfolioReact/static/media/blog1.bf6816de.svg",
     "static/media/design.svg": "/PortfolioReact/static/media/design.bca243ce.svg",
     "static/media/game-dev.svg": "/PortfolioReact/static/media/game-dev.72bdc773.svg",
-    "static/media/img.png": "/PortfolioReact/static/media/img.60613b71.png",
+    "static/media/img2.png": "/PortfolioReact/static/media/img2.4ab297b5.png",
     "static/media/intelligence.svg": "/PortfolioReact/static/media/intelligence.5a63ed19.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0f0a46b8.js",
     "static/js/2.7b701202.chunk.js",
-    "static/js/main.aac096a4.chunk.js"
+    "static/js/main.0e845ed4.chunk.js"
   ]
 }
