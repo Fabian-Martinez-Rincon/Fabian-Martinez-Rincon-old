@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/PortfolioReact/static/js/main.9d1fd046.chunk.js",
-    "main.js.map": "/PortfolioReact/static/js/main.9d1fd046.chunk.js.map",
+    "main.js": "/PortfolioReact/static/js/main.f0b05e40.chunk.js",
+    "main.js.map": "/PortfolioReact/static/js/main.f0b05e40.chunk.js.map",
     "runtime-main.js": "/PortfolioReact/static/js/runtime-main.0f0a46b8.js",
     "runtime-main.js.map": "/PortfolioReact/static/js/runtime-main.0f0a46b8.js.map",
-    "static/js/2.7cfcb292.chunk.js": "/PortfolioReact/static/js/2.7cfcb292.chunk.js",
-    "static/js/2.7cfcb292.chunk.js.map": "/PortfolioReact/static/js/2.7cfcb292.chunk.js.map",
+    "static/js/2.d7413301.chunk.js": "/PortfolioReact/static/js/2.d7413301.chunk.js",
+    "static/js/2.d7413301.chunk.js.map": "/PortfolioReact/static/js/2.d7413301.chunk.js.map",
     "index.html": "/PortfolioReact/index.html",
-    "precache-manifest.65e2fabf736977bae192f23394ea6d26.js": "/PortfolioReact/precache-manifest.65e2fabf736977bae192f23394ea6d26.js",
+    "precache-manifest.0bcd7e49479382c317cc84075ba5ce7b.js": "/PortfolioReact/precache-manifest.0bcd7e49479382c317cc84075ba5ce7b.js",
     "service-worker.js": "/PortfolioReact/service-worker.js",
-    "static/js/2.7cfcb292.chunk.js.LICENSE.txt": "/PortfolioReact/static/js/2.7cfcb292.chunk.js.LICENSE.txt",
+    "static/js/2.d7413301.chunk.js.LICENSE.txt": "/PortfolioReact/static/js/2.d7413301.chunk.js.LICENSE.txt",
     "static/media/1.png": "/PortfolioReact/static/media/1.34ea2f3b.png",
     "static/media/2.png": "/PortfolioReact/static/media/2.d4e53d24.png",
     "static/media/3.jpg": "/PortfolioReact/static/media/3.54a455c8.jpg",
@@ -19,15 +19,11 @@
     "static/media/6.png": "/PortfolioReact/static/media/6.25188ca7.png",
     "static/media/7.png": "/PortfolioReact/static/media/7.84c990a4.png",
     "static/media/8.png": "/PortfolioReact/static/media/8.0d83b3e7.png",
-    "static/media/blog1.svg": "/PortfolioReact/static/media/blog1.bf6816de.svg",
-    "static/media/design.svg": "/PortfolioReact/static/media/design.bca243ce.svg",
-    "static/media/game-dev.svg": "/PortfolioReact/static/media/game-dev.72bdc773.svg",
-    "static/media/img2.png": "/PortfolioReact/static/media/img2.4ab297b5.png",
-    "static/media/intelligence.svg": "/PortfolioReact/static/media/intelligence.5a63ed19.svg"
+    "static/media/img2.png": "/PortfolioReact/static/media/img2.4ab297b5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0f0a46b8.js",
-    "static/js/2.7cfcb292.chunk.js",
-    "static/js/main.9d1fd046.chunk.js"
+    "static/js/2.d7413301.chunk.js",
+    "static/js/main.f0b05e40.chunk.js"
   ]
 }

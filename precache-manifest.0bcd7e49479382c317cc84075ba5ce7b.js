@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2c5a2d741b8783012c9808118405355",
+    "revision": "95a0b6460a943e4bab3f12c0cd989fd5",
     "url": "/PortfolioReact/index.html"
   },
   {
-    "revision": "fc71924ef6aa3be9307a",
-    "url": "/PortfolioReact/static/js/2.7cfcb292.chunk.js"
+    "revision": "8bdda98af81c88488b0c",
+    "url": "/PortfolioReact/static/js/2.d7413301.chunk.js"
   },
   {
     "revision": "683977c346077458667292274cdb7595",
-    "url": "/PortfolioReact/static/js/2.7cfcb292.chunk.js.LICENSE.txt"
+    "url": "/PortfolioReact/static/js/2.d7413301.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5c415eedaaa135a2d5b9",
-    "url": "/PortfolioReact/static/js/main.9d1fd046.chunk.js"
+    "revision": "0f90eef298db8d846e91",
+    "url": "/PortfolioReact/static/js/main.f0b05e40.chunk.js"
   },
   {
     "revision": "2d70b3898089e090d095",
@@ -56,23 +56,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PortfolioReact/static/media/8.0d83b3e7.png"
   },
   {
-    "revision": "bf6816de5f60a0a3602e623698472a14",
-    "url": "/PortfolioReact/static/media/blog1.bf6816de.svg"
-  },
-  {
-    "revision": "bca243ce67ac4832cda78caca8c24d47",
-    "url": "/PortfolioReact/static/media/design.bca243ce.svg"
-  },
-  {
-    "revision": "72bdc77330b29b3ade891fb09b481bd3",
-    "url": "/PortfolioReact/static/media/game-dev.72bdc773.svg"
-  },
-  {
     "revision": "4ab297b596df06689da857c10b2f6b11",
     "url": "/PortfolioReact/static/media/img2.4ab297b5.png"
-  },
-  {
-    "revision": "5a63ed19d20f075c9a11212a68d389a7",
-    "url": "/PortfolioReact/static/media/intelligence.5a63ed19.svg"
   }
 ]);
