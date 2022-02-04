@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1c347a5413422d78bf616fca050ae11",
+    "revision": "42d2003948e4712e771a205ce6a946c2",
     "url": "/index.html"
   },
   {
-    "revision": "6ec007c2ebf5379151e7",
-    "url": "/static/js/2.24fabb26.chunk.js"
+    "revision": "d149a923f9ebee83f8bf",
+    "url": "/static/js/2.ffcef6e8.chunk.js"
   },
   {
     "revision": "683977c346077458667292274cdb7595",
-    "url": "/static/js/2.24fabb26.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ffcef6e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a4a92799ad6fcbaf62b7",
-    "url": "/static/js/main.d976d6bd.chunk.js"
+    "revision": "928050cc1deb88c8423f",
+    "url": "/static/js/main.1c642ef6.chunk.js"
   },
   {
     "revision": "16eed37f38735969b0de",
@@ -54,6 +54,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "183c71a5d5afca24871276978046d8ff",
     "url": "/static/media/9.183c71a5.PNG"
+  },
+  {
+    "revision": "89ab18005b3842913fb759fc3171d8d8",
+    "url": "/static/media/Arqui.89ab1800.PNG"
+  },
+  {
+    "revision": "86d2231ad26fbc95c446f37bcabc61be",
+    "url": "/static/media/TallerDeProgramacion.86d2231a.png"
   },
   {
     "revision": "68c81bd63f40cbf5123c718ef98be964",
