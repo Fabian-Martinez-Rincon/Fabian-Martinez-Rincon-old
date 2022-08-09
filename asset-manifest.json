@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.989d4480.chunk.js",
-    "main.js.map": "/static/js/main.989d4480.chunk.js.map",
+    "main.js": "/static/js/main.72783379.chunk.js",
+    "main.js.map": "/static/js/main.72783379.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5f1a8f4d.js",
     "runtime-main.js.map": "/static/js/runtime-main.5f1a8f4d.js.map",
     "static/js/2.169b2b28.chunk.js": "/static/js/2.169b2b28.chunk.js",
     "static/js/2.169b2b28.chunk.js.map": "/static/js/2.169b2b28.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ba9e0c0104a07d671e85bf396428c2e4.js": "/precache-manifest.ba9e0c0104a07d671e85bf396428c2e4.js",
+    "precache-manifest.b9e6fe22224361b43bed49dabc1da7b9.js": "/precache-manifest.b9e6fe22224361b43bed49dabc1da7b9.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.169b2b28.chunk.js.LICENSE.txt": "/static/js/2.169b2b28.chunk.js.LICENSE.txt",
     "static/media/11.PNG": "/static/media/11.f7255883.PNG",
@@ -24,11 +24,11 @@
     "static/media/TallerDeProgramacion2.png": "/static/media/TallerDeProgramacion2.d82e4d71.png",
     "static/media/cadp.png": "/static/media/cadp.689009d8.png",
     "static/media/foto3.jpg": "/static/media/foto3.68c81bd6.jpg",
-    "static/media/img2.png": "/static/media/img2.4ab297b5.png"
+    "static/media/img3.png": "/static/media/img3.bc2920af.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5f1a8f4d.js",
     "static/js/2.169b2b28.chunk.js",
-    "static/js/main.989d4480.chunk.js"
+    "static/js/main.72783379.chunk.js"
   ]
 }
