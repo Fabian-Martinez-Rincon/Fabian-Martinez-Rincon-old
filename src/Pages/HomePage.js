@@ -1,7 +1,7 @@
 import Particle from '../Components/Particle';
 import React from 'react'
 import styled from 'styled-components';
-import InstagramIcon from '@material-ui/icons/YouTube';
+import InstagramIcon from '@material-ui/icons/Instagram';
 
 import GithubIcon from '@material-ui/icons/GitHub';
 import LinkedinIcon from '@material-ui/icons/LinkedIn';
@@ -24,7 +24,7 @@ function HomePage() {
                 Full Stack Developer
                 </p>
                 <div className="icons">
-                    <a href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q" className="icon i-instagram">
+                    <a href="https://www.instagram.com/faboart_/" className="icon i-instagram">
                         <InstagramIcon />
                     </a>
                     <a href="https://github.com/Fabian-Martinez1" className="icon i-github">

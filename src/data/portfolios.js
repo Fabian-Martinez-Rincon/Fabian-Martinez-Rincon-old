@@ -8,6 +8,7 @@ import img5 from '../img/Portfolios//Resoluciones/7.png';
 import img6 from '../img/Portfolios//Resoluciones/8.png';
 import img7 from '../img/Portfolios//Resoluciones/91.gif';
 import img8 from '../img/Portfolios//Resoluciones/12.PNG';
+import img9 from '../img/Portfolios//Resoluciones/Cuestion-De-Espacio.PNG';
 
 const portfolios = [
     {
@@ -103,9 +104,17 @@ const portfolios = [
         link1: 'https://mith-arg.github.io/EI-Materias-Web/',
         link2: 'https://github.com/MITH-arg/EI-Materias-Web',
         title: 'EI-Materias',
-        text: 'Readme con apuntes, prácticas y códigos relacionados a la UNLP informática.'
+        text: 'Blog en el que subo apuntes, opiniones o doy información sobre temas que me gustan o tengo que estudiar'
+    },
+    {
+        id: 11,
+        category: 'Javascript',
+        image: img9,
+        link1: 'https://github.com/Cuestion-de-Espacio',
+        link2: 'https://github.com/Cuestion-de-Espacio',
+        title: 'Cuestion de Espacio',
+        text: 'Proyecto hecho en la hackaton Space App'
     }
-    
 ]
 
 export default portfolios;

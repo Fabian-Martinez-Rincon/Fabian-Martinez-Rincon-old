@@ -28,7 +28,7 @@ function Navigation() {
                 </li>
             </ul>
             <footer className="footer">
-                <p>@2021 <b>Fabian Martinez</b></p>
+                <p>@2022 <b>Fabian Martinez</b></p>
             </footer>
         </NavigationStyled>
     )

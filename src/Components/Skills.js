@@ -32,7 +32,12 @@ function Skills() {
                             text={'60%'}
                         />
                         <ProgressBar 
-                            title={'C'}
+                            title={'Python'}
+                            width={'60%'}
+                            text={'60%'}
+                        />
+                        <ProgressBar 
+                            title={'Linux'}
                             width={'60%'}
                             text={'60%'}
                         />
