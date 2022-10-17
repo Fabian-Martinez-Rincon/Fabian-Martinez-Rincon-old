@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components';
 import {NavLink} from 'react-router-dom';
-import avatar from '../img/img2.png';
+import avatar from '../img/img3.png';
 
 function Navigation() {
     return (
@@ -11,19 +11,20 @@ function Navigation() {
             </div>
             <ul className="nav-items">
                 <li className="nav-item">
-                    <NavLink to="/PortfolioReact/" activeClassName="active-class" exact>Home</NavLink>
+                    <NavLink to="" activeClassName="active-class" exact>Home</NavLink>
                 </li>
                 <li className="nav-item">
-                    <NavLink to="/PortfolioReact/about" activeClassName="active-class" exact>About</NavLink>
+                    <NavLink to="/about" activeClassName="active-class" exact>About</NavLink>
                 </li>
                 <li className="nav-item">
-                    <NavLink to="/PortfolioReact/resume" activeClassName="active-class" exact>Resume</NavLink>
+                    <NavLink to="/resume" activeClassName="active-class" exact>Resume</NavLink>
                 </li>
                 <li className="nav-item">
-                    <NavLink to="/PortfolioReact/projects" activeClassName="active-class" exact>Projects</NavLink>
+                    <NavLink to="/projects" activeClassName="active-class" exact>Projects</NavLink>
                 </li>
+                
                 <li className="nav-item">
-                    <NavLink to="/PortfolioReact/contact" activeClassName="active-class" exact>Contact</NavLink>
+                    <NavLink to="/contact" activeClassName="active-class" exact>Contact</NavLink>
                 </li>
             </ul>
             <footer className="footer">

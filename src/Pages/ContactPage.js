@@ -8,11 +8,18 @@ import EmailIcon from '@material-ui/icons/Email';
 import LocationOnIcon from '@material-ui/icons/LocationOn';
 import ContactItem from '../Components/ContactItem';
 
+import { useForm } from '@formspree/react';
+
 function ContactPage() {
     const phone = <PhoneIcon />
     const email = <EmailIcon />
     const location = <LocationOnIcon />
+    const [state, handleSubmit] = useForm("xpzbwpdl");
+    if (state.succeeded) {
+        return <p><Title title={'Thanks for joining!'} /></p>;
+    }
     return (
+        
         <MainLayout>
             <Title title={'Contact'} span={'Contact'} />
             <ContactPageStyled >
@@ -21,28 +28,35 @@ function ContactPage() {
                     <div className="contact-title">
                         <h4>Get In Touch</h4>
                     </div>
-                    <form  className="form">
+
+                    <form  className="form" onSubmit={handleSubmit}>
+
                         <div className="form-field">
                             <label htmlFor="name"  >Enter your name*</label>
                             <input type="text" id="name" />
                         </div>
+
                         <div className="form-field">
-                            <label htmlFor="email"  >Enter your email*</label>
+                            <label htmlFor="email" >Enter your email*</label>
                             <input type="email" id="email" />
                         </div>
+
                         <div className="form-field">
                             <label htmlFor="subject"  >Enter your subject</label>
                             <input type="text" id="subject" />
                         </div>
+
                         <div className="form-field">
                             <label htmlFor="text-area">Enter your Message*</label>
                             <textarea name="textarea" id="textarea" cols="30" rows="10"></textarea>
                         </div>
-                        <div className="form-field f-button">
+
+                        <button  type="submit" disabled={state.submitting}>
                             <PrimaryButton title={'Send Email'} />
-                        </div>
+                        </button>
                     </form>
                 </div>
+
                 <div className="right-content">
                     <ContactItem title={'Phone'} icon={phone} cont1={'+54 221 3529440'} cont2={''} />
                     <ContactItem title={'Email'} icon={email} cont1={'fabianmartinezrincon.123@gmail.com'} cont2={''} />
@@ -52,7 +66,7 @@ function ContactPage() {
             </InnerLayout>
             </ContactPageStyled>
         </MainLayout>
-    )
+    );
 }
 
 const ContactPageStyled = styled.section`

@@ -1,24 +1,24 @@
 import {createGlobalStyle} from 'styled-components';
 
-
 const GlobalStyle = createGlobalStyle`
 
+
 .dark-theme{
-    --primary-color: #7B716A;
-    --primary-color-light: #FB6D10;
-    --secondary-color: #C7B9B1; //ni idea
-    --background-dark-color: #282424; //Fondo
-    --background-dark-grey: #595053; //Fondos proyects
-    --border-color: #000000; //Lineas
-    --background-light-color: #86112E;
-    --background-light-color-2: #4D4C59;
-    --white-color: #C7B9B1; //Otras letras
-    --font-light-color: #C7B9B1; //letras barra
+    --primary-color: #007bff;
+    --primary-color-light: #057FFF;
+    --secondary-color: #6c757d;
+    --background-dark-color: #10121A;
+    --background-dark-grey: #191D2B;
+    --border-color: #2e344e;
+    --background-light-color: #F1F1F1;
+    --background-light-color-2: rgba(3,127,255,.3);
+    --white-color: #FFF;
+    --font-light-color: #a4acc4;
     --font-dark-color: #313131;
-    --font-dark-color-2: #C7B9B1;
-    --sidebar-dark-color: #595053; //Barra izquierda
+    --font-dark-color-2: #151515;
+    --sidebar-dark-color: #191D2B;
     --scrollbar-bg-color: #383838;
-    --scrollbar-thump-color: #C7B9B1;
+    --scrollbar-thump-color: #6b6b6b;
     --scrollbar-track-color: #383838;
 }
 

@@ -133,7 +133,7 @@ const MenuItemStyled = styled.div`
                 &::before{
                     height: calc(100% - 32%) ;
                     width: calc(100% - 4%);
-                    background-color: white;
+                    background-color: rgba(0,0,0,0.5);
                     opacity: 0.9;
                     transform-origin: left;
                     

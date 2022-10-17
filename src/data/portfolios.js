@@ -1,13 +1,52 @@
-import css1 from '../img/Portfolios/Resoluciones/1.png';
-import css2 from '../img/Portfolios//Resoluciones/2.png';
-import react1 from '../img/Portfolios//Resoluciones/6.png';
+import css1 from '../img/Portfolios/Resoluciones/11.PNG';
+import css2 from '../img/Portfolios//Resoluciones/2.gif';
+import react1 from '../img/Portfolios//Resoluciones/61.png';
 import img2 from '../img/Portfolios//Resoluciones/4.png';
 import img3 from '../img/Portfolios//Resoluciones/5.png';
-import img4 from '../img/Portfolios//Resoluciones/3.png';
+import img4 from '../img/Portfolios//Resoluciones/3.gif';
 import img5 from '../img/Portfolios//Resoluciones/7.png';
 import img6 from '../img/Portfolios//Resoluciones/8.png';
+import img7 from '../img/Portfolios//Resoluciones/91.gif';
+import img8 from '../img/Portfolios//Resoluciones/12.PNG';
 
 const portfolios = [
+    {
+        id: 9,
+        category: 'Javascript' ,
+        image: img7,
+        link1: 'https://github.com/Fabian-Martinez1/Mega-Conversor-OC',
+        link2: 'https://fabian-martinez1.github.io/Mega-Conversor-OC/',
+        title: 'MEGA CONVERSOR OC',
+        text: 'It is a project in pascal in which you enter a binary number and it tells you all the data about that number.'
+    },
+    {
+        id: 6,
+        category: 'CSS',
+        image: img4,
+        link1: 'https://github.com/Fabian-Martinez1/Old_Portfolio',
+        link2: 'https://fabian-martinez1.github.io/Old_Portfolio/',
+        title: 'Old Portfolio',
+        text: 'Old Portfolio Created using HTML and CSS'
+    },
+    
+    {
+        id: 2,
+        category: 'CSS',
+        image: css2,
+        link1: 'https://github.com/ZonaFabo',
+        link2: 'https://zonafabo.github.io/',
+        title: 'Zona Fabo',
+        text: 'Web that compiles my notes on university subjects'
+    },/*
+    {
+        id: 7,
+        category: 'CSS',
+        image: img5,
+        link1: 'https://github.com/Juanuwu/pingo',
+        link2: 'https://luispin.ga/',
+        title: 'Pingo',
+        text: 'Created using HTML and CSS'
+    },*/
     {
         id: 1,
         category: 'Javascript',
@@ -18,23 +57,14 @@ const portfolios = [
         text: 'We calculate in a theoretical way, the static and dynamic memory and the execution time.'
     },
     {
-        id: 2,
-        category: 'CSS',
-        image: css2,
-        link1: 'https://github.com/ZonaFabo',
-        link2: 'https://zonafabo.github.io/',
-        title: 'Zona Fabo',
-        text: 'Web that compiles my notes on university subjects'
-    },
-    {
         id: 3,
         category: 'Python',
         image: react1,
         link1: 'https://github.com/Fabian-Martinez1/Transform-Pokemon-Resolution',
         link2: 'https://fabian-martinez1.github.io/Transform-Pokemon-Resolution/',
         title: 'Transform Pokemon Resolution',
-        text: 'It is a tool capable of refocusing Pokémon that are too out of focus using the pix2pix architecture. Take any unfocused pokemon as input and return it focused (the result is a bit creepy :/).'
-    },
+        text: 'It is a tool capable of refocusing Pokémon that are too out of focus using the pix2pix architecture.'
+    },/*
     {
         id: 4,
         category: 'C',
@@ -42,7 +72,7 @@ const portfolios = [
         link1: 'https://github.com/Fabian-Martinez1/Lock',
         link2: 'https://fabian-martinez1.github.io/Lock/',
         title: 'Lock',
-        text: 'A project made in arduino, it is a lock in which we have to enter a password to activate a servomotor, the first time we enter a code we have to enter a special code (the one that comes as default) and at that moment we reset the lock and enter our new password.'
+        text: 'A project made in arduino, it is a lock in which we have to enter a password to activate a servomotor.'
     },
     {
         id: 5,
@@ -51,26 +81,10 @@ const portfolios = [
         link1: 'https://github.com/Fabian-Martinez1/Converter-OC',
         link2: 'https://fabian-martinez1.github.io/Converter-OC/',
         title: 'Converter OC',
-        text: 'It is a project in pascal in which you enter a binary number and it tells you all the data about that number. At the moment it does the following: It supports, Bss, Bcs, Ca1, Ca2, Ex2, and it also tells us the number of bits.'
+        text: 'It is a project in pascal in which you enter a binary number and it tells you all the data about that number.'
     },
-    {
-        id: 6,
-        category: 'CSS',
-        image: img4,
-        link1: 'https://github.com/Fabian-Martinez1/Fabian-Martinez1.github.io',
-        link2: 'https://fabian-martinez1.github.io/',
-        title: 'Old Portfolio',
-        text: 'Old Portfolio Created using HTML and CSS'
-    },
-    {
-        id: 7,
-        category: 'CSS',
-        image: img5,
-        link1: 'https://github.com/Juanuwu/pingo',
-        link2: 'https://luispin.ga/',
-        title: 'Pingo',
-        text: 'Created using HTML and CSS'
-    },
+    
+    
     {
         id: 8,
         category: 'C',
@@ -78,8 +92,20 @@ const portfolios = [
         link1: 'https://github.com/Fabian-Martinez1/Keypad',
         link2: 'https://fabian-martinez1.github.io/Keypad/',
         title: 'Keypad',
-        text: 'A project in Arduino, it is a remote keyboard in which the client can customize a series of words that they uses normally and can send them with just one press. Once you have sent the word, it will be see in a place the house.'
+        text: 'A project in Arduino, it is a remote keyboard in which the client can customize a series of words that they uses normally.'
+    },*/
+    
+    
+    {
+        id: 10,
+        category: 'CSS',
+        image: img8,
+        link1: 'https://mith-arg.github.io/EI-Materias-Web/',
+        link2: 'https://github.com/MITH-arg/EI-Materias-Web',
+        title: 'EI-Materias',
+        text: 'Readme con apuntes, prácticas y códigos relacionados a la UNLP informática.'
     }
+    
 ]
 
 export default portfolios;

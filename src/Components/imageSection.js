@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components';
-import resume from '../img/foto1.jpg';
+import resume from '../img/foto3.jpg';
 import PrimaryButton from './PrimaButton';
 
 function ImageSection() {
@@ -18,7 +18,7 @@ function ImageSection() {
                 <div className="about-info">
                     <div className="info-title">
                         <p>Full Name</p>
-                        <p>Age</p>
+                 
                         <p>Nationality </p>
                         <p>Languages </p>
                         <p>Location</p>
@@ -26,14 +26,16 @@ function ImageSection() {
                     </div>
                     <div className="info">
                         <p>: Fabian Martinez</p>
-                        <p>: 21</p>
+                        
                         <p>: Ar gentina </p>
                         <p>: Spanish, English </p>
                         <p>: Buenos Aires, La Plata</p>
                         <p>: Freelance</p>
                     </div>
                 </div>
-                <PrimaryButton title={'Download Resume'} />
+                <a href='https://fabian-martinez1.github.io/Resume/'>
+                    <PrimaryButton title={'Resume'} />
+                </a>
             </div>
         </ImageSectionStyled>
     )

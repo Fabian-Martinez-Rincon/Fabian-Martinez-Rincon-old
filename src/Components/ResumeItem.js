@@ -11,7 +11,7 @@ function ResumeItem({year, title, subTitle, text,link}) {
                 <h5>{title}</h5>
                 <h6>{subTitle}</h6>
                 <p>{text}</p>
-                <a href={link} target="_blank">
+                <a href={link} target="_blank" rel="noopener noreferrer" >
                 <PrimaryButton title={'Certificate'}/>
                     </a>
                 

@@ -7,6 +7,7 @@ import HomePage from "./Pages/HomePage";
 import AboutPage from './Pages/AboutPage';
 import ResumePage from './Pages/ResumePage';
 import PortfoliosPage from './Pages/PortfoliosPage';
+import BlogsPage from './Pages/BlogsPage.js';
 import ContactPage from './Pages/ContactPage';
 import MenuIcon from '@material-ui/icons/Menu';
 import { IconButton } from "@material-ui/core";
@@ -36,20 +37,23 @@ function App() {
 
           <Routes>
             <Route  exact>
-              <Route path="/PortfolioReact/" element={<HomePage />} />
+              <Route path="" element={<HomePage />} />
             </Route>
             <Route  exact>
-              <Route path="/PortfolioReact/about" element={<AboutPage />} />
+              <Route path="/about" element={<AboutPage />} />
             </Route>
             <Route  exact>
-              <Route path="/PortfolioReact/resume" element={<ResumePage />} />
+              <Route path="/resume" element={<ResumePage />} />
             </Route>
             <Route  exact>
-              <Route path="/PortfolioReact/projects" element={<PortfoliosPage />} />
+              <Route path="/projects" element={<PortfoliosPage />} />
+            </Route>
+            <Route  exact>
+              <Route path="/blogs" element={<BlogsPage />} />
             </Route>
             
             <Route  exact>
-              <Route path="/PortfolioReact/contact" element={<ContactPage />} />
+              <Route path="/contact" element={<ContactPage />} />
             </Route>
           </Routes>
 

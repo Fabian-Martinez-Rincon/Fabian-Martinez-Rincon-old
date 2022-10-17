@@ -6,7 +6,6 @@ import SmallTitle from '../Components/SmallTitle';
 import BusinessCenterIcon from '@material-ui/icons/BusinessCenter';
 import SchoolIcon from '@material-ui/icons/School';
 import ResumeItem from '../Components/ResumeItem';
-import PrimaryButton from './PrimaButton';
 
 function Resume() {
     const briefcase = <BusinessCenterIcon />
@@ -43,11 +42,12 @@ function Resume() {
                         link={'https://www.info.unlp.edu.ar/carreras-de-grado-lic-en-informatica/'}
                     />
                     <ResumeItem 
-                        year={'2013 - 2020'} 
+                        year={'2014 - 2020'} 
                         title={'Tecnico en Electronica'}
                         subTitle={'Albert Thomas'}
                         text={'In this period of time we focus on learning programming languages such as C, Python, Assembly and Visual Basic. Also the design and assembly of printed circuits. And various projects on Arduino.'} 
-                        link={'https://drive.google.com/file/d/1en50AThRwe2sDyBtYOb6MG3QZpvHVKnD/view?usp=sharing'}
+                        link={'https://drive.google.com/file/d/1MSO9HWIgASFo074WhQ75-qYPkP1faJSX/view?usp=sharing'
+                        }
                     />
                     
                 </div>
