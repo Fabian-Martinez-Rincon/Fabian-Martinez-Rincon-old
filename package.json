@@ -24,7 +24,7 @@
     "react-router-dom": "^6.0.2",
     "react-router-native": "^6.0.2",
     "react-router-redux": "^4.0.8",
-    "react-scripts": "^3.4.4",
+    "react-scripts": "^5.0.1",
     "react-tsparticles": "^1.37.5",
     "styled-components": "^5.3.3",
     "tsparticles": "^1.37.5",
